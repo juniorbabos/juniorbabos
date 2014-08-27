@@ -1,0 +1,19 @@
+body{
+    background-image: url("../img/fundo.PNG");
+}
+#login{
+    margin-top: -60%;
+}
+#rodape{
+  
+    width: 100%;
+    background-color: #269abc;
+    height: 30px;   
+    bottom: 0px;
+    text-align: center;
+   
+    position: fixed;
+}
+span{
+    color: #000;
+}
